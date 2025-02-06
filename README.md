@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @DurgeshwariD
-- 👀 I’m interested in Web Development.
+- 👀 I’m interested in Web Development and Content Creator. 
 - 🌱 I’m currently learning Full Stack Development.
+- 💻 Skills:Java,C-Programming Language,SQL,JavaScript and HTML,CSS
 - 📫 Connect with me - Linkedln:https://www.linkedin.com/in/durgeshwari-d-913a08292
 - 
 
